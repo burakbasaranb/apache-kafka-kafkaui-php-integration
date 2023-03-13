@@ -3,3 +3,4 @@
 1. Apache Kafka Installation
 2. Kafka UI Installation
 3. PHP Kafka Consumer and Producer Codes 
+<code> code area </code>
