@@ -1,18 +1,8 @@
 
 # Apache Kafka - Kafka UI - PHP Integration
 
-This is PHP project to send data to Apache Kafka and read
+This is PHP project send data to Apache Kafa and read example
 
-#### Technologic Requirements
-
-The following requirements must be installed on your computer.
-
-```http
-  Npm
-  Xampp
-  Composer
-  Visual Studio Code
-```
 
 1. Apache Kafka Installation
 2. Kafka UI Installation
@@ -21,21 +11,27 @@ The following requirements must be installed on your computer.
 
 
 
+#### Technologic Requirements
+
+The following requirements must be installed on your computer.
+
+Npm, Xampp, Composer, Visual Studio Code
+
+  
 ## 1. Apache Kafka Installation
 
 #### Needs
 
-```http
-  1.1. Java Developer Kid (JDK) to Zookeeper
-  1.2. Zookeeper to control Apache Kafka
-```
+
+  - 1.1. Java Developer Kid (JDK) to Zookeeper
+  - 1.2. Zookeeper to control Apache Kafka
+
 #### Index
 
-```http
-  1.1. Install Java Developer Kid (JDK)
-  1.2. Install Zookeeper
-  1.3. Install Apache Kafka
-```
+-  1.1. Install Java Developer Kid (JDK)
+-  1.2. Install Zookeeper
+-  1.3. Install Apache Kafka
+
 #### 1.1. Install Java Developer Kid (JDK)
 
 ```http
@@ -64,13 +60,6 @@ The following requirements must be installed on your computer.
 
 
   
-## Yol haritası
-
-- Ek tarayıcı desteği
-
-- Daha fazla entegrasyon ekleme
-
-  
 ## Rozetler
 
 [shields.io](https://shields.io/) Gibi bir yerden rozetler ekleyin.
@@ -78,5 +67,13 @@ The following requirements must be installed on your computer.
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 [![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
 [![AGPL License](https://img.shields.io/badge/license-AGPL-blue.svg)](http://www.gnu.org/licenses/agpl-3.0)
+
+  
+## Kullananlar
+
+Bu proje aşağıdaki şirketler tarafından kullanılmaktadır:
+
+- Şirket 1
+- Şirket 2
 
   
