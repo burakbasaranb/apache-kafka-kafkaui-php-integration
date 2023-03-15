@@ -34,19 +34,19 @@ Npm, Xampp, Composer, Visual Studio Code
 
 #### 1.1. Install Java Developer Kid (JDK)
 
-```http
+```bash
   ....
 ```
 
 #### 1.2. Install Zookeeper
 
-```http
+```bash
   ....
 ```
 
 #### 1.3. Install Apache Kafka
 
-```http
+```bash
   ....
 ```
 
